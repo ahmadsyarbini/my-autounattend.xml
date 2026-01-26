@@ -6,7 +6,15 @@ my version of autounattend.xml answer file for windows 10 and 11.
 * No Pre-installed social media app
 * No Pre-installed bloatware
 * No Onedrive
-* ....the list goes on
+* No News and Interest
+* No Recall
+* No ads
+* Offline account
+* No internet requirement
+* No microsoft account requirement
+* TPM Bypass
+* RAM check bypass
+* Secure boot bypass
 * Tidy start menu
 * Rebloat instructions note on desktop
 * Updatable
