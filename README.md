@@ -1,6 +1,8 @@
 # my-autounattend.xml
 my version of autounattend.xml answer file for windows 10 and 11.
 
+save as xml : https://raw.githubusercontent.com/ahmadsyarbini/my-autounattend.xml/refs/heads/main/autounattend.xml
+
 ## Features :
 * No AI
 * No Copilot
