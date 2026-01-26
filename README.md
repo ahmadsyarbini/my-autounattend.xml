@@ -19,6 +19,8 @@ my version of autounattend.xml answer file for windows 10 and 11.
 * Rebloat instructions note on desktop
 * Updatable
 * No hack, No modification, only registry entry
+* Disabled "Finish setup your windows with Microsoft Account" after restart
+* Disabled password expiry
 
 Put into the root directory of ISO or usb drive.
 
