@@ -23,6 +23,7 @@ save as xml : https://raw.githubusercontent.com/ahmadsyarbini/my-autounattend.xm
 * No hack, No modification, only registry entry
 * Disabled "Finish setup your windows with Microsoft Account" after restart
 * Disabled password expiry
+* Disabled all fancy eye candy, transparency and unnecesary animation. Purely focused on performance.
 
 Put into the root directory of ISO or usb drive.
 
