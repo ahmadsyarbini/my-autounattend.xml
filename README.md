@@ -1,3 +1,6 @@
+# Note
+Outdated. Refer to https://github.com/ahmadsyarbini/ahmadsyar-scripts/blob/main/others/my-autounattend/autounattend.xml
+
 # my-autounattend.xml
 my version of autounattend.xml answer file for windows 10 and 11.
 
